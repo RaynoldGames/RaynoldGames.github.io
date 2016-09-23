@@ -1,12 +1,26 @@
 html {
     background-color:#2d2d30;
-    background-color:black;
-    /*font-family: "Consolas MS", "Consolas", cursive;*/
-    font-family: "Comic Sans MS", "Comic Sans", cursive;
-    font-size: 170px;
-    color: cyan;
+    font-family: "Consolas MS", "Consolas";
+    font-size: 15px;
+    color: white;
 }
 
-body {
-   /*background-color: #181818;*/
+header{
+    background-color:#2d2d30;
+    font-family: "Courier", "Courier New";
+    font-size: 30px;
+    color: white;
+}
+
+nav{
+    background-color:#2d2d30;
+    font-family: "Consolas MS", "Consolas";
+    font-size: 20px;
+    color: white;
+}
+
+content{
+    background-color:#000000;
+    #border:2px solid white;
+    #border-radius: 5px;
 }
